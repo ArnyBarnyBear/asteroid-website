@@ -1,0 +1,58 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+body {
+    background-image: url(pixelspace.png);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 20px;
+
+    font-size: 35px;
+    text-align: center;
+  }
+  h2 {
+    color: black;
+    margin-left: 20px;
+
+    font-size: 30px;
+    text-align: center;
+  }
+  img {
+   margin-left: 260px;
+  }
+  pre{
+    margin: 10px;
+
+  }
+  h3 {
+      color: white;
+      margin-left: 20px;
+      font-size: 15px;
+      text-align: center;
+  }
+
+  .quiz{
+    color:white;
+    background-color: teal;
+    margin: 10px;
+    border-style: solid;
+    border-color: turquoise;
+
+}
+
+  h4 {
+    color: #282828;
+    margin-left: 20px;
+
+    font-size: 18px;
+  }
+  .border {
+    margin-right: 500px;
+    margin-left: 500px;
+    background-color: whitesmoke;
+  }
+  
